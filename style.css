@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin: 100px auto;
+}
+
+h1 {
+    color: #333;
+}
+
+.converter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+input, select {
+    padding: 5px;
+    margin: 0 10px;
+}
+
+#result {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+}
